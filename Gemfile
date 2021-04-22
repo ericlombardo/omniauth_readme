@@ -19,6 +19,7 @@ gem 'omniauth-facebook'
 gem 'dotenv-rails'
 
 gem 'thin'
+gem 'omniauth-rails_csrf_protection', '~> 1.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
